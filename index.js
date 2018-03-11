@@ -8,4 +8,4 @@ function happyHolidaysTo(name){
   console.log(name);
 }
 
-happyHolidaysTo(Karen);
+happyHolidaysTo("Karen");
